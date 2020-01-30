@@ -1,5 +1,5 @@
 
-![Docker Pulls](https://img.shields.io/docker/pulls/naviat/hnsenter.svg?style=popout) [![](https://images.microbadger.com/badges/image/naviat/hnsenter.svg)](https://microbadger.com/images/naviat/hnsenter "Get your own image badge on microbadger.com")
+![Docker Pulls](https://img.shields.io/docker/pulls/naviat/hnsenter.svg?style=popout) [![](https://images.microbadger.com/badges/version/naviat/hnsenter.svg)](https://microbadger.com/images/naviat/hnsenter "Get your own version badge on microbadger.com")
 
 # nsenter
 
