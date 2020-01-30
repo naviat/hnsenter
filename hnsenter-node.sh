@@ -18,7 +18,7 @@ kubectl run ${podName:?} --restart=Never -it --rm --image overriden --overrides 
     "containers": [
       {
         "name": "nsenter",
-        "image": "naviat/hnsenter:2.34",
+        "image": "naviat/hnsenter:2.35",
         "command": [
           "/nsenter", "--all", "--target=1", "--", "su", "-"
         ],
